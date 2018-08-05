@@ -1,0 +1,15 @@
+{
+    "lengthMenu": "Exibir _MENU_ registro(s) por página",
+    "zeroRecords": "Nenhum registro encontrado.",
+    "info": "Exibindo página(s) _PAGE_ de _PAGES_",
+    "infoEmpty": "Nenhum registro encontrando.",
+    "infoFiltered": "(filtro de _MAX_ registros totais)",
+    "search": "Buscar",
+    "emptyTable": "Não existe registros.",
+    "paginate": {
+        "first": "Primeiro",
+        "last": "Último",
+        "next": "Próximo",
+        "previous": "Anterior"
+        }
+}

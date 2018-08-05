@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
-</html>
+<?php include_once 'htm_login/pagelogin.php'; ?>
+<br>
+<br>
+<a href="html_administrador/production/index.php">Administrador</a>
+<br>
+<a href="html_atendente/production/index.php">Atendente</a>
+<br>
+<a href="html_cliente/production/index.php">Cliente</a>
+<br>
+<a href="html_dentista/production/index.php">Dentista</a>
+
